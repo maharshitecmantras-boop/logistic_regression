@@ -1,16 +1,12 @@
-# logistic_regression.py
-
-# Logistic Regression Implementation
+# Logistic Regression
 
 class LogisticRegression:
-    def __init__(self, iterations=1000, learning_rate=0.01):
-        self.iterations = iterations
+    def __init__(self, learning_rate=0.01, num_iterations=1000):
         self.learning_rate = learning_rate
+        self.num_iterations = num_iterations
 
     def fit(self, X, y):
-        # Fit the model to the training data
-        pass
+        pass # Training logic
 
     def predict(self, X):
-        # Predict using the logistic regression model
-        pass
+        pass # Prediction logic
