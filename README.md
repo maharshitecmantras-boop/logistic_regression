@@ -1,2 +1,3 @@
-# logistic_regression
-Repository for logistic regression model implementation.
+# Logistic Regression
+
+This repository contains the implementation of a logistic regression model.
